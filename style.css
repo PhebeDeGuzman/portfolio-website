@@ -258,6 +258,14 @@ nav {
     height: 100vh;
 }
 
+#clientPC  {
+    background: url(images/PC-01.jpg) center top fixed no-repeat;
+    background-size: cover;
+    height: 80vh;
+    clear: both;
+    overflow: hidden;
+}
+
 #clientBC  {
     background: url(images/borncurious/JR_02.jpg) center top fixed no-repeat;
     background-size: cover;
