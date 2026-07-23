@@ -501,6 +501,12 @@ h2  {
     background-size: cover;
 }
     
+#clientPC  {
+    background: url(images/pc_deer.jpeg) center top fixed no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+    
 #clientAMLACTIN  {
     background: url(images/amlactin/heather_mobile1.gif) fixed no-repeat;
     height: 100vh;
