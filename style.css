@@ -502,7 +502,7 @@ h2  {
 }
     
 #clientPC  {
-    background: url(images/pc_deer2_mobile.jpg) center top fixed no-repeat;
+    background: url(images/pc_deer2_mobile.jpg) fixed no-repeat;
     background-size: cover;
     height: 100vh;
 }
