@@ -502,9 +502,9 @@ h2  {
 }
     
 #clientPC  {
-    background: url(images/pc_deer2_mobile.jpg) fixed no-repeat;
+    background: url(images/pc_deer_mobile2.jpg) fixed no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 80vh;
 }
     
 #clientAMLACTIN  {
